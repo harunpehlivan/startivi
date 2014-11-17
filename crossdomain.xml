@@ -1,0 +1,4 @@
+<cross-domain-policy>
+<allow-access-from domain="*.startivi.com"/>
+<allow-access-from domain="*.startivi"/>
+</cross-domain-policy>
